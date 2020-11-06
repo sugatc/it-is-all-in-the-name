@@ -1,4 +1,4 @@
-# It's All in the Name
+# Inferring Religion from Names in South Asia
 
 This repository provides the Python 3.0 replication code for the paper [It's All in the Name:  A Character Based Approach To Infer Religion](https://arxiv.org/abs/2010.14479) where we predict religion from personal names only. We train character based classifiers: logistic regression, support vector machine as well as convolutional neural network. The models can predict religion, i.e., Buddhist, Christian, Hindu, Jain, Muslim and Sikh with over 97% accuracy and provide 100% coverage.
 
